@@ -1,5 +1,9 @@
 # Lab04ShadersGraphics
 
-## Renderizado de mi estrella
+## Estrella (Sol)
 
 ![Sol](Solecito.gif)
+
+## Planeta Rocoso
+
+![Venus](Venus.gif)
