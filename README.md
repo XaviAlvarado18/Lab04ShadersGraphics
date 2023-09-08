@@ -7,3 +7,7 @@
 ## Planeta Rocoso
 
 ![Venus](Venus.gif)
+
+## Planeta Gaseoso
+
+![Gaseoso](PlanetaGaseoso.gif)
