@@ -11,3 +11,8 @@
 ## Planeta Gaseoso
 
 ![Gaseoso](PlanetaGaseoso.gif)
+
+
+## Planeta Namekusei (Dragon Ball Z)
+
+![Namekusei](Namekusei.gif)
